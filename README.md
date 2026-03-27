@@ -12,4 +12,4 @@
 确保已安装 Python 3.x（自带 turtle 模块），直接运行任意脚本即可：
 
 ```bash
-python rose.py
+python Rose.py
