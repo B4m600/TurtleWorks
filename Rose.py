@@ -1667,4 +1667,5 @@ turtle.pendown()
 cubic_bezier((247.22, 101.73), (249.58, 102.59), (251.80, 104.08), (253.06, 106.25))
 
 turtle.bgcolor('cornflowerblue')
+turtle.hideturtle()
 turtle.done()
